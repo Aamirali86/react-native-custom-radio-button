@@ -20,7 +20,7 @@ Basic
 ---
 
 ```js
-import {RadioGroup, RadioButton} from 'react-native-flexi-radio-button'
+import {RadioGroup, RadioButton} from 'react-native-custom-radio-button'
 
 onSelect(index, value){
   this.setState({
